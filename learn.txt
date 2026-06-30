@@ -1,0 +1,2 @@
+/customer/1012\
+/customer?city=Islampur&risk=high
